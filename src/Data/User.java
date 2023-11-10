@@ -1,4 +1,4 @@
-package Data;
+package OOP_Course.Lesson5.OOPSeminar5.src.Data;
 
 public abstract class User {
     private String firstName;

@@ -1,11 +1,11 @@
-package Service;
+package OOP_Course.Lesson5.OOPSeminar5.src.Service;
 
 import java.util.ArrayList;
 import java.util.List;
-import Data.User;
-import Data.Type;
-import Data.Teacher;
-import Data.Student;
+import OOP_Course.Lesson5.OOPSeminar5.src.Data.User;
+import OOP_Course.Lesson5.OOPSeminar5.src.Data.Type;
+import OOP_Course.Lesson5.OOPSeminar5.src.Data.Teacher;
+import OOP_Course.Lesson5.OOPSeminar5.src.Data.Student;
 public class DataService {
     private List<User> userList;
 

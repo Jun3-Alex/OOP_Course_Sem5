@@ -1,4 +1,4 @@
-package Data;
+package OOP_Course.Lesson5.OOPSeminar5.src.Data;
 
 public class Student extends User {
     private int studentId;
@@ -25,6 +25,6 @@ public class Student extends User {
                 ", secondName='" + super.getSecondName() + '\'' +
                 ", patronymic='" + super.getLastName() + '\'' +
                 ", dateOfBirth=" + super.getDateB() +
-                '}';
+                '}' + "\n";
     }
 }
